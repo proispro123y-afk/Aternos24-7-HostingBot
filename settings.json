@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "abyssscript.falix.pro",
+    "port": 29266,
     "version": "",
     "try-creative": false
   },
@@ -24,10 +24,10 @@
     },
     "anti-afk": {
       "enabled": true,
-      "sneak": true
+      "sneak": false
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
@@ -79,7 +79,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1482676253906702409/GftNsAdVLZlVDmEx0gQUc1qm84LocHlXOokA1IQbhQEX1nXGTcD74_YTlARjr5RuK9LV",
     "events": {
       "connect": true,
       "disconnect": true,
