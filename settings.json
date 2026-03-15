@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "abyssscript.falix.pro",
-    "port": ,
+    "port": 25526,
     "version": "",
     "try-creative": false
   },
