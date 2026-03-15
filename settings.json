@@ -50,7 +50,7 @@
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
+      "radius": 5,
       "speed": 3000
     },
     "look-around": {
@@ -65,7 +65,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
@@ -74,11 +74,11 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
-    "enabled": false,
+    "enabled": true,
     "webhookUrl": "https://discord.com/api/webhooks/1482676253906702409/GftNsAdVLZlVDmEx0gQUc1qm84LocHlXOokA1IQbhQEX1nXGTcD74_YTlARjr5RuK9LV",
     "events": {
       "connect": true,
