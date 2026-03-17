@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "abyssscript.falix.pro",
-    "port": 29266,
+    "ip": "reimagined.playserver.pro",
+    "port": ,
     "version": "",
     "try-creative": false
   },
